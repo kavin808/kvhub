@@ -1,0 +1,2 @@
+listen: ":18600"
+logDir: "/data/udpecho"
